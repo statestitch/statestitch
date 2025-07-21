@@ -1,3 +1,5 @@
+![Banner](https://github.com/statestitch/statestitch/blob/main/c08c193e-f660-4814-9c58-de78769454dd%201.png?raw=true)
+
 ## 👋 About Me
 
 Front-end developer with 7+ years of experience building fast, responsive, and accessible web applications using React, Next.js, TypeScript, and modern UI frameworks.  

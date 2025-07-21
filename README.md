@@ -24,7 +24,7 @@ REST · GraphQL · Axios · React Query · SWR
 Jest · Cypress · React Testing Library · ESLint · Prettier
 
 **Tooling & DevOps:**  
-Git · GitHub · GitLab · Bitbucket · Vercel · Netlify · CI/CD (GitHub Actions)
+Git · GitHub · GitLab · Bitbucket · Vercel · Netlify · CI/CD
 
 **Project Workflow:**  
 Figma · Jira · Notion · Agile/Scrum

@@ -36,7 +36,6 @@ Figma · Jira · Notion · Agile/Scrum
 ## 💡 What Sets Me Apart
 
 - 🔍 **Attention to detail:** I care deeply about pixel-perfect UI and seamless UX.
-- ⚙️ **Performance-driven:** I’ve improved load times by up to 40% on production apps.
 - 🚀 **Production mindset:** Familiar with CI/CD, clean code, component libraries, and scalable architecture.
 - 🤝 **Strong communication:** I bridge the gap between design and engineering, and I enjoy working closely with cross-functional teams.
 - 📈 **Business-aware developer:** I don’t just ship features — I align code with product goals and performance metrics.
